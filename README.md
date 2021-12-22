@@ -1,26 +1,45 @@
-### Hi there 👋
+#### 👋 Nice to meet YOU
 
-<!--
-**CozyKim/Cozykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there,  I'm Jaehyun Kim, who likes development and NLP.
 
-Here are some ideas to get you started:
+I'm currently learning DL at Naver Boostcamp AI Tech course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ultimately, I want to solve the complexities of everyday life through AI.
 
-#### About Me
 
-[CV](About_ME/KJH_CV.pdf) / [Portfolio](About_ME/KJH_portfolio.pdf)
+
+#### 📫 Contact
+
+If you want to contact me, please send me an email  at the email address below. (Welcome inquiries on any subject, whether it is a study or development.)
+
+robot032195@gmail.com
+
+
+
+#### 🍳 Skills
+
+- ML/DL : PyTorch, Hugging Face, Scikit-Learn
+- Data Analysis : Pandas, Numpy, Seaborn/MatploLib
+- Language : Python, C
+
+
+
+#### 🤔 Interests
+
+- NLP (Question Answering, Sentence Classification)
+- MLOps
+- Model Optimization
+- Recommender System
+
+
+
+#### 🗂 More About ME
+
+- [CV](../About_ME/KJH_CV.pdf) / [Portfolio](KJH_portfolio.pdf)
 
 
 
 
 ![cozykim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozykim&show_icons=true&theme=default)
+
 
