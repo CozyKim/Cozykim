@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About Me
+
+[CV](../About_ME/KJH_CV.pdf) / [Portfolio](KJH_portfolio.pdf)
+
+
+
+
+![cozykim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozykim&show_icons=true&theme=default)
+
