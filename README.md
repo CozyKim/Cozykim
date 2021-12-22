@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### About Me
 
-[CV](../About_ME/KJH_CV.pdf) / [Portfolio](KJH_portfolio.pdf)
+[CV](About_ME/KJH_CV.pdf) / [Portfolio](About_ME/KJH_portfolio.pdf)
 
 
 
