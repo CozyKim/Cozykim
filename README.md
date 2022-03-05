@@ -35,7 +35,7 @@ robot032195@gmail.com
 
 #### 🗂 More About ME
 
-- [CV](../About_ME/KJH_CV.pdf) / [Portfolio](KJH_portfolio.pdf)
+- [CV](../About_ME/KJH_CV.pdf) / [Portfolio](https://cozykim.notion.site)
 
 
 
